@@ -1,0 +1,15 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "node project doing to learn nodejs  while working on real time project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Darshan C N",
+  "license": "ISC"
+}
